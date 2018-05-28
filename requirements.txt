@@ -1,4 +1,15 @@
 numpy
+scipy
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
+requests
+lxml
+feedparser
+nltk
+tensorflow
+tensorflow_hub
+plotly
+scikit-learn
+pdftotext
+duckling
