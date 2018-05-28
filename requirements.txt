@@ -1,5 +1,6 @@
 numpy
 scipy
+pandas
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
@@ -13,3 +14,6 @@ plotly
 scikit-learn
 pdftotext
 duckling
+bs4
+spacy
+html5lib==1.0.1
