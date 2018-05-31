@@ -17,3 +17,5 @@ duckling
 bs4
 spacy
 html5lib==1.0.1
+gensim
+keras

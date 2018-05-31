@@ -3,7 +3,7 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable ruler/main
-jupyter nbextension enable ruler/main
+jupyter nbextension enable execute_time/ExecuteTime
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust *.ipynb
